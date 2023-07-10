@@ -15,7 +15,7 @@ export const Heading = () => {
     return (
       <Navbar color="dark" dark>
           <Container>
-              <NavbarBrand href="/">Oryza Team</NavbarBrand>
+              <NavbarBrand href="/">Employee Database</NavbarBrand>
 
               <Nav>
                   <NavItem>
